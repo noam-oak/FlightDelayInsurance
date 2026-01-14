@@ -9,7 +9,7 @@ git clone https://github.com/noam-oak/FlightDelayInsurance.git
 cd FlightDelayInsurance
 ```
 
-Le script `launch.sh` orchestre le démarrage :
+Le script `launch.sh` orchestre le démarrage des services :
 ```bash
 chmod +x launch.sh
 ./launch.sh
