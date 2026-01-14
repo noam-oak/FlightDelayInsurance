@@ -1,0 +1,18 @@
+[
+  {
+    "flightNumber": "AF727",
+    "arrivalTimestamp": 1769536800,
+    "status": 3,
+    "delayInMinutes": 0,
+    "reasonCode": 50,
+    "updatedAt": 1769115153
+  },
+  {
+    "flightNumber": "AF742",
+    "arrivalTimestamp": 1769018400,
+    "status": 2,
+    "delayInMinutes": 180,
+    "reasonCode": 50,
+    "updatedAt": 1768370919
+  }
+]
